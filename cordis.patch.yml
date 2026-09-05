@@ -1,0 +1,4 @@
+# dsh-model-select-search bundle patch
+- insert:
+    - id: model-select-search
+      name: 'dsh-model-select-search'

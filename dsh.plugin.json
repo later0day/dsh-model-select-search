@@ -1,0 +1,12 @@
+{
+  "id": "dsh-external/dsh-model-select-search",
+  "version": "0.1.0",
+  "main": "./lib/index.js",
+  "description": "模型选择器增强：provider 默认折叠、搜索过滤、高亮匹配",
+  "engines": {
+    "dsh": ">=0.1.2-rc.1"
+  },
+  "client": {
+    "main": "./lib/client-registry.js"
+  }
+}
